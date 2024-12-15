@@ -261,7 +261,7 @@ function App() {
     <div className="container-fluid">
       <Toaster />
       <div className="row bg-primary text-center">
-        <h1 className="fw-bold pt-2 text-light">WEB-CHAT</h1>
+        <h1 className="fw-bold pt-2 text-light">Live-Line</h1>
         <br />
       </div>
 
